@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Тестовое задание</string>
+    
+    <string name="action_search">Поиск</string>
+    
+    <string name="search_hint">Поиск по объявлениям</string>
+    <string name="search_label">Тестовое задание</string>
+    
+    <string name="list_loading">Загрузка&#8230;</string>
+    
+    <string name="content_thumbnail">Превью</string>
+    <string name="content_arrow">Стрелка</string>
+    
+</resources>

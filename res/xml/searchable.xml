@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:hint="@string/search_hint"
+    android:label="@string/search_hint"
+    android:searchSuggestAuthority="com.valfom.testtask.TestTaskSuggestionContentProvider"
+    android:searchSuggestSelection=" ?"
+    android:voiceLanguageModel="web_search"
+    android:inputType="textUri"
+    android:voiceSearchMode="showVoiceSearchButton|launchRecognizer" >
+
+</searchable>
